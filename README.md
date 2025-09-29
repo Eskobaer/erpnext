@@ -135,6 +135,7 @@ To setup the repository locally follow the steps mentioned below:
 2. [Official documentation](https://docs.erpnext.com/) - Extensive documentation for ERPNext.
 3. [Discussion Forum](https://discuss.erpnext.com/) - Engage with community of ERPNext users and service providers.
 4. [Telegram Group](https://erpnext_public.t.me) - Get instant help from huge community of users.
+5. [Bestandsaufnahme und Angebotsworkflow (DE)](docs/guides/bestandaufnahme_angebot_de.md) - Leitfaden für Inventur und Angebotserstellung.
 
 
 ## Contributing
